@@ -1,0 +1,10 @@
+*.DS_Store
+*.AppleDouble
+.Spotlight-V100
+.Trashes
+*.swp
+._*
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/
